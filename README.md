@@ -31,3 +31,6 @@ to do the following, inclusively:
 6. If the client is not throwaway, delete your browser history.
 7. If the client is not throwaway, delete the certificate from your trusted
    root certificates when you are done.
+   
+## Licensing
+* License: [MIT License](https://mit-license.org/)
